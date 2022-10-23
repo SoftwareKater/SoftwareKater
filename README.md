@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Johannes
+- 💼 Professionally I’m interested in Web Technologies, Software Architecture, snd Agile Software Development
+- 🎸 Personally I'm interested in guitar playing, gaming, and economics
+- 🌱 I’m currently learning for my ISAQB Advanced Level qualification
+- 💞️ I’m currently not looking to collaborate on projects, but in general I’m interessted in eLearning projects
+- 📫 Reach me via gmail (softwarekater)
